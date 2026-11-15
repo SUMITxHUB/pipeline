@@ -45,7 +45,7 @@ Prototyping notebook used to experiment with individual model components, test d
 git clone https://github.com/SUMITxHUB/pipeline.git
 cd pipeline
 pip install -r requirements.txt  # or install dependencies listed in notebook
-jupyter notebook
+jupyter notebok
 ```
 
 Open `pipeline.ipynb` to run the full inference pipeline, or `basketball.ipynb` for individual component experiments.
